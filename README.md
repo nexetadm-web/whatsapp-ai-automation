@@ -6,21 +6,6 @@ This project automates incoming WhatsApp messages, processes them through an AI 
 
 ---
 
-## 📸 Project Preview
-
-### n8n Automation Workflow
-
-![WhatsApp AI Automation Workflow](screenshots/n8n-workflow.png)
-
-### WhatsApp Conversation
-
-![WhatsApp Conversation](screenshots/whatsapp-message.png)
-
-### AI Response
-
-![AI Response](screenshots/ai-response.png)
-
----
 
 ## 🚀 Key Features
 
