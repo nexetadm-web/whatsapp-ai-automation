@@ -5,6 +5,8 @@ An AI-powered WhatsApp customer automation workflow built with **n8n, WhatsApp C
 This project automates incoming WhatsApp messages, processes them through an AI Agent, maintains customer context, extracts customer information, and sends intelligent responses back through WhatsApp.
 
 ---
+# 🛠️ Tech Stack
+Tech Stack: WhatsApp Cloud API · n8n · Google Gemini · REST APIs · Webhooks · JavaScript · JSON · Meta Developer Platform
 
 
 ## 🚀 Key Features
