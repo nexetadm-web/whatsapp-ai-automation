@@ -13,8 +13,8 @@ This project automates incoming WhatsApp messages, processes them through an AI 
 ![whatsappconversation](whatsappconversation.png)
 
 
-### AI Responce
-![airesponce](airesponce.png)
+### AI Response
+![airesponse](airesponse.png)
 
 ---
 # 🛠️ Tech Stack
